@@ -14,11 +14,18 @@
 
 # Задание 2
 
+# Iр адрес master
 ![Скриншот](1_master.png)
+# Iр адрес slave
 ![Скриншот](2_slave.png)
+# Конфигурация master
 ![Скриншот](3_master.png)
+# Конфигурация slave
 ![Скриншот](4_slave.png)
+# status master
 ![Скриншот](5_master.png)
+# status slave
 ![Скриншот](6_slave.png)
+# table slave
 ![Скриншот](7_slave.png)
 
